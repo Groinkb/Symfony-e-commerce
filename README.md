@@ -16,4 +16,4 @@ Résultat de la v1 du formulaire après un getdata ![ddgetdata](https://github.c
 
 
 
-Mysql première entrée dans la table user ![mysql](https://github.com/user-attachments/assets/a0ce9621-17f0-44f5-a96e-a159bf09081d)
+Mysql première entrée dans la table user. Avant hashage du mot de passe (évidemment) ![mysql](https://github.com/user-attachments/assets/a0ce9621-17f0-44f5-a96e-a159bf09081d)
