@@ -9,3 +9,7 @@ Première capture d'écran en attendant le projet final :
 
 Code du formulaire de la v1
 ![vscodeinscription](https://github.com/user-attachments/assets/f940ae51-78fe-43b7-9e6f-1e89d9e760a6)
+
+
+
+Résultat de la v1 du formulaire après un getdata ![ddgetdata](https://github.com/user-attachments/assets/56d89560-edd4-46cc-8aa1-ca5e7281a71b)
