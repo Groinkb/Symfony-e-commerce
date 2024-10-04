@@ -1,243 +1,70 @@
 Ce fichier README a été généré le **19 juillet 2024** par **Groink**.
 Dernière mise-à-jour le : **4 octobre 2024**.
 
+# Symfony E-commerce
+-> 
 
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a id="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
+# Description
 
+Développer un projet complexe et complet avec Symfony 6 et 7
+Créer un site e-commerce avec le framework Symfony 6 et 7
+Comprendre et maîtriser le langage de templating Twig
+Comprendre et maîtriser les controllers et les routes dans Symfony 6 et 7
+Comprendre et maîtriser l'utilisateur des formulaires et la validation des données
+Comprendre et maîtriser les entités, les relations et les tables dans Symfony 6 et 7
+Créer une interface d'administration avec EasyAdmin Bundle
+Créer un système d'envoie d'email efficace à l'aide du wrapper PHP Mailjet
+Créer un tunnel d'achat efficace, en plusieurs étape avec Stripe pour le paiement
+Comprendre et maîtriser les services dans Symfony 7
+Comprendre et maîtriser le composant Security
+Comprendre et maîtriser la gestion de la base de donnée dans un projet Symfony
+Déployer son site en production
 
+# Installation
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+Pour utiliser ce projet vous devez auparavant avoir php installé sur votre environnement :
 
+-> https://www.php.net/manual/fr/install.php
 
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/Groinkb/Symfony-e-commerce">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h3 align="center">Website E-commerce</h3>
-
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/Groinkb/Symfony-e-commerce"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/Groinkb/Symfony-e-commerce/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/Groinkb/Symfony-e-commerce/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
-  </p>
-</div>
+à l'issu installer le framework **Symfony** :
+-> https://symfony.com/download
 
+Enfin vous devez avoir un serveur local pour pouvoir gérer votre base de donnée :
+https://mamp.info/en/downloads/
 
+# Captures d'écran
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+Voici quelques captures d'écran de l'évolution du projet :
+Première capture d'écran en attendant le projet final : 
+![laboutiquefrancaise1](https://github.com/user-attachments/assets/18a6f005-863d-49d8-9d06-690e021ec8c4)
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+Code du formulaire de la v1
+![vscodeinscription](https://github.com/user-attachments/assets/f940ae51-78fe-43b7-9e6f-1e89d9e760a6)
 
-**Screenshot**
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Résultat de la v1 du formulaire après un getdata ![ddgetdata](https://github.com/user-attachments/assets/56d89560-edd4-46cc-8aa1-ca5e7281a71b)
 
 
 
-### Built With
+Mysql première entrée dans la table user. Avant hashage du mot de passe (évidemment) ![mysql](https://github.com/user-attachments/assets/a0ce9621-17f0-44f5-a96e-a159bf09081d)
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
+# Support
+Pour toute demande concernant ce projet voici mon mail : 
+benjamin@mossu.ch
 
+# Roadmap
+Si de nouvelles idées sont évoquées, elles peuvent être exposées dans le README.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+# Contributions
+Indiquer si le projet est ouvert aux contributions extérieures et quelles sont les critères pour les accépter.
+Pour les personnes souhaitant apporter des modifications au projet, il peut être appreciable d'élaborer une documantation spécifique (ex: script à executer, variables d'environnements à initialiser, etc ...).
+Il peut être indiqué les commandes pour exécuter des tests du code pour éviter que les modifications proposées affectent certaines fonctionnalités.
 
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-5. Change git remote url to avoid accidental pushes to base project
-   ```sh
-   git remote set-url origin github_username/repo_name
-   git remote -v # confirm the changes
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/Groinkb/Symfony-e-commerce/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Top contributors:
-
-  <a href="https://github.com/Groinkb/Symfony-e-commerce/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Groikb/Symfony-e-commerce" alt="contrib.rocks image" />
-</a>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Benjamin - benjamin@mossu.ch
-
-Project Link: [https://github.com/Groinkb/Symfony-e-commerce]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-url]: [https://github.com/Groinkb/Symfony-e-commerce/graphs/contributors]
-[license-shield]: https://img.shields.io/github/license/Groinkb/Symfony-e-commerce.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: [https://linkedin.com/in/linkedin_username](https://www.linkedin.com/in/benjamin-marchald-dev/)
-[product-screenshot]: images/screenshot.png
-
-
-
-
-
-
-
+# Auteurs et remerciements
+ <a href="https://github.com/Groinkb">Groinkb</a>.
 
 
 
