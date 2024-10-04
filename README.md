@@ -1,3 +1,6 @@
+Ce fichier README a été généré le **19 juillet 2024** par **Groink**.
+Dernière mise-à-jour le : [YYY-MM-DD].
+
 # Symfony-e-commerce
 Un repository dans lequel je vais mettre le projet que je suis entrain de faire. Je m'exerce dans le framework symfony. 
 
