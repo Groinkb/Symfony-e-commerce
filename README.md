@@ -1,4 +1,4 @@
-Ce fichier README a été généré le **19 juillet 2024** par **Groink**.
+_ _Ce fichier README a été généré le **19 juillet 2024** par **Groink**._ _
 Dernière mise-à-jour le : **4 octobre 2024**.
 
 # Symfony E-commerce
