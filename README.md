@@ -67,7 +67,7 @@ Il peut être indiqué les commandes pour exécuter des tests du code pour évit
  <a href="https://github.com/Groinkb">Groinkb</a>.
 
 
-
+nb : Le projet n'est pas terminé. Expliquant ainsi la façon dont les fichiers ont été mis dans le projet. Une fois terminé les fichiers retourneront à leurs places d'origine.
 
 
 
