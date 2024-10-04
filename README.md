@@ -34,7 +34,7 @@ Dernière mise-à-jour le : **4 octobre 2024**.
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/Groinkb/Symfony-e-commerce">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -43,14 +43,14 @@ Dernière mise-à-jour le : **4 octobre 2024**.
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Groinkb/Symfony-e-commerce"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/Groinkb/Symfony-e-commerce/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/Groinkb/Symfony-e-commerce/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -99,12 +99,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -192,8 +187,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/github_username/Symfony-e-commerce/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=github_username/repo_name" alt="contrib.rocks image" />
+  <a href="https://github.com/Groinkb/Symfony-e-commerce/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Groikb/Symfony-e-commerce" alt="contrib.rocks image" />
 </a>
 
 
@@ -212,7 +207,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Benjamin - benjamin@mossu.ch
 
-Project Link: [https://github.com/github_username/repo_name]([https://github.com/github_username/repo_name)](https://github.com/Groinkb/Symfony-e-commerce)
+Project Link: [https://github.com/Groinkb/Symfony-e-commerce]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -231,8 +226,8 @@ Project Link: [https://github.com/github_username/repo_name]([https://github.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-url]: [https://github.com/github_username/repo_name/graphs/contributors](https://github.com/Groinkb/Symfony-e-commerce/graphs/contributors)
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
+[contributors-url]: [https://github.com/Groinkb/Symfony-e-commerce/graphs/contributors]
+[license-shield]: https://img.shields.io/github/license/Groinkb/Symfony-e-commerce.svg?style=for-the-badge
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: [https://linkedin.com/in/linkedin_username](https://www.linkedin.com/in/benjamin-marchald-dev/)
