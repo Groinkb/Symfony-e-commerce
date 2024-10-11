@@ -1,7 +1,12 @@
+# Symfony E-commerce
+![symfony_black_01](https://github.com/user-attachments/assets/c0a47565-4ced-400b-b05b-56c502c711c8)
+
+
  _Ce fichier README a été généré le **19 juillet 2024** par **Groink**._ 
  _Dernière mise-à-jour le : **4 octobre 2024**._ 
 
-# Symfony E-commerce
+
+
 
 
 # Description
